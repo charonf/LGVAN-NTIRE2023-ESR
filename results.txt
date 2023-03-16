@@ -1,0 +1,3 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+18_LGVAN            	29.00     	80.19         	0.118     	9.06      	332.39  	1114.77 	 122    
+00_RFDN_baseline    	29.04     	39.39         	0.433     	27.10     	112.03  	788.13  	  64    
